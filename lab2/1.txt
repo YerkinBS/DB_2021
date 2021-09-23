@@ -1,0 +1,20 @@
+Data Definition Language (DDL) for defining 
+the database structure and controlling access 
+to the data 
+
+EXAMPLES:
+
+¤ Create Table – creates a new table in database
+¤ Alter Table – changes at existing table(s)
+¤ Drop Table – removes table from database 
+
+
+Data Manipulation Language (DML) for 
+retrieving and updating data
+
+EXAMPLES:
+
+¤ SELECT – to query data in the database; 
+¤ INSERT – to insert data into a table;
+¤ UPDATE – to update data in a table;
+¤ DELETE – to delete data from a table
