@@ -1,0 +1,11 @@
+▪ Initial phase - characterize fully the data needs of the prospective database users.
+
+▪ Second phase - choosing a data model
+   • Applying the concepts of the chosen data model
+   • Translating these requirements into a conceptual schema of the database.
+   • A fully developed conceptual schema indicates the functional requirements of the enterprise.
+       ▪ Describe the kinds of operations (or transactions) that will be performed on the data.
+
+▪ Final Phase - Moving from an abstract data model to the implementation of the database
+• Logical Design - Deciding on the database schema.
+   ▪Database design requires that we find a “good” collection of relation schemas.
